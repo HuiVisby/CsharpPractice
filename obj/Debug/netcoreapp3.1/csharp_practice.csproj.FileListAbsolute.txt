@@ -1,0 +1,12 @@
+/Users/yanghui/csharp_practice/bin/Debug/netcoreapp3.1/csharp_practice.deps.json
+/Users/yanghui/csharp_practice/bin/Debug/netcoreapp3.1/csharp_practice.runtimeconfig.json
+/Users/yanghui/csharp_practice/bin/Debug/netcoreapp3.1/csharp_practice.runtimeconfig.dev.json
+/Users/yanghui/csharp_practice/bin/Debug/netcoreapp3.1/csharp_practice.dll
+/Users/yanghui/csharp_practice/bin/Debug/netcoreapp3.1/csharp_practice.pdb
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.csprojAssemblyReference.cache
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.AssemblyInfoInputs.cache
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.AssemblyInfo.cs
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.csproj.CoreCompileInputs.cache
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.dll
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.pdb
+/Users/yanghui/csharp_practice/obj/Debug/netcoreapp3.1/csharp_practice.genruntimeconfig.cache
